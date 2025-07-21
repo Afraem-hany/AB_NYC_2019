@@ -42,6 +42,7 @@ The Power BI dashboard includes:
 - **Dynamic filters** for room type, borough, and price range.
 
 🖼️ ![Dashboard Preview](https://github.com/Afraem-hany/AB_NYC_2019/blob/069c3508c6662fb83da2d7f300ebeb8bf2f8018d/images/Screenshot%202025-07-21%20213738.png)
+![Dashboard Preview](https://github.com/Afraem-hany/AB_NYC_2019/blob/8ed966e9212f0f0907bd4c4d9472a88e70e3f215/images/Screenshot%202025-07-21%20215156.png)
 
 ---
 
