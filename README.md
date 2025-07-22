@@ -41,7 +41,7 @@ The Power BI dashboard includes:
 - **Availability vs Price** scatter plot.
 - **Dynamic filters** for room type, borough, and price range.
 
-![Dashboard Preview](https://github.com/Afraem-hany/AB_NYC_2019/blob/e959c41ee4c3a873e6ba55e32fb0719843079ee5/images/Screenshot%202025-07-21%20222135.png)
+![Dashboard Preview](https://github.com/Afraem-hany/AB_NYC_2019/blob/02ac6199090ad788ca93bafb4cfe25d5d39375b1/images/Screenshot%202025-07-22%20123602.png)
 ![Dashboard Preview](https://github.com/Afraem-hany/AB_NYC_2019/blob/8ed966e9212f0f0907bd4c4d9472a88e70e3f215/images/Screenshot%202025-07-21%20215156.png)
 
 ---
